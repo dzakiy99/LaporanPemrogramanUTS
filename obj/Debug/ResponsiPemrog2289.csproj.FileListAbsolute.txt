@@ -1,0 +1,6 @@
+C:\Users\USER\Documents\ResponsiPemrog2289\ResponsiPemrog2289\bin\Debug\ResponsiPemrog2289.exe.config
+C:\Users\USER\Documents\ResponsiPemrog2289\ResponsiPemrog2289\bin\Debug\ResponsiPemrog2289.exe
+C:\Users\USER\Documents\ResponsiPemrog2289\ResponsiPemrog2289\bin\Debug\ResponsiPemrog2289.pdb
+C:\Users\USER\Documents\ResponsiPemrog2289\ResponsiPemrog2289\obj\Debug\ResponsiPemrog2289.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\ResponsiPemrog2289\ResponsiPemrog2289\obj\Debug\ResponsiPemrog2289.exe
+C:\Users\USER\Documents\ResponsiPemrog2289\ResponsiPemrog2289\obj\Debug\ResponsiPemrog2289.pdb
